@@ -56,29 +56,11 @@ Service Service1 is being removed from the system...
 An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
 System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
 An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
-Uninstalling assembly 'E:\Latest_Masterpass\db1.exe'.
+Uninstalling assembly 'E:\MasterPass_latest_working_SC\Windows_service_test_2\Password Manager-V2\Password Manager-V2\Password Manager-V2\bin\Release\db1.exe'.
 Affected parameters are:
    logtoconsole = 
-   logfile = E:\Latest_Masterpass\db1.InstallLog
-   assemblypath = E:\Latest_Masterpass\db1.exe
+   logfile = E:\MasterPass_latest_working_SC\Windows_service_test_2\Password Manager-V2\Password Manager-V2\Password Manager-V2\bin\Release\db1.InstallLog
+   assemblypath = E:\MasterPass_latest_working_SC\Windows_service_test_2\Password Manager-V2\Password Manager-V2\Password Manager-V2\bin\Release\db1.exe
 Removing EventLog source Service1.
-Warning: The source Service1 is not registered on the local machine.
 Service Service1 is being removed from the system...
-An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
-System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
-An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
-Installing assembly 'E:\Latest_Masterpass\db1.exe'.
-Affected parameters are:
-   i = 
-   logfile = E:\Latest_Masterpass\db1.InstallLog
-   assemblypath = E:\Latest_Masterpass\db1.exe
-   logtoconsole = 
-Installing service Service1...
-Service Service1 has been successfully installed.
-Creating EventLog source Service1 in log Application...
-Committing assembly 'E:\Latest_Masterpass\db1.exe'.
-Affected parameters are:
-   i = 
-   logfile = E:\Latest_Masterpass\db1.InstallLog
-   assemblypath = E:\Latest_Masterpass\db1.exe
-   logtoconsole = 
+Service Service1 was successfully removed from the system.
